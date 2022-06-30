@@ -1,0 +1,2 @@
+# simplejs
+A javascript script
