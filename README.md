@@ -1,2 +1,2 @@
-# simplejs
-A javascript script
+## simplejs
+A store front page website
